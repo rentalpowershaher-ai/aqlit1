@@ -1,12 +1,13 @@
 {
-  "background_color": "#e04444",
+  "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "https://aqlit.vercel.app",
+  "name": "Ekleet Medical Clinic",
   "orientation": "any",
   "scope": "/",
   "short_name": "aqlit.vercel",
-  "start_url": "/",
-  "theme_color": "#20b723",
-  "id": "Ekleet Medical Clinic"
+  "start_url": "https://aqlit.vercel.app",
+  "theme_color": "#ffffff",
+  "id": "Ekleet Medical Clinic",
+  "lang": "ar"
 }
